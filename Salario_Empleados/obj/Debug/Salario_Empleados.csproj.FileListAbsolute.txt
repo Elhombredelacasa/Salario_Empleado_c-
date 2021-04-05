@@ -1,0 +1,12 @@
+C:\Users\Danis\Documents\Abbey_Company\DesarrollosC#\Salario_Empleados\Salario_Empleados\bin\Debug\Salario_Empleados.exe.config
+C:\Users\Danis\Documents\Abbey_Company\DesarrollosC#\Salario_Empleados\Salario_Empleados\bin\Debug\Salario_Empleados.exe
+C:\Users\Danis\Documents\Abbey_Company\DesarrollosC#\Salario_Empleados\Salario_Empleados\bin\Debug\Salario_Empleados.pdb
+C:\Users\Danis\Documents\Abbey_Company\DesarrollosC#\Salario_Empleados\Salario_Empleados\obj\Debug\Salario_Empleados.csprojAssemblyReference.cache
+C:\Users\Danis\Documents\Abbey_Company\DesarrollosC#\Salario_Empleados\Salario_Empleados\obj\Debug\Salario_Empleados.General.resources
+C:\Users\Danis\Documents\Abbey_Company\DesarrollosC#\Salario_Empleados\Salario_Empleados\obj\Debug\Salario_Empleados.Inicio_de_Sesion.resources
+C:\Users\Danis\Documents\Abbey_Company\DesarrollosC#\Salario_Empleados\Salario_Empleados\obj\Debug\Salario_Empleados.Properties.Resources.resources
+C:\Users\Danis\Documents\Abbey_Company\DesarrollosC#\Salario_Empleados\Salario_Empleados\obj\Debug\Salario_Empleados.csproj.GenerateResource.cache
+C:\Users\Danis\Documents\Abbey_Company\DesarrollosC#\Salario_Empleados\Salario_Empleados\obj\Debug\Salario_Empleados.csproj.CoreCompileInputs.cache
+C:\Users\Danis\Documents\Abbey_Company\DesarrollosC#\Salario_Empleados\Salario_Empleados\obj\Debug\Salario_Empleados.exe
+C:\Users\Danis\Documents\Abbey_Company\DesarrollosC#\Salario_Empleados\Salario_Empleados\obj\Debug\Salario_Empleados.pdb
+C:\Users\Danis\Documents\Abbey_Company\DesarrollosC#\Salario_Empleados\Salario_Empleados\obj\Debug\Salario_Empleados.creditos.resources
